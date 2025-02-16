@@ -1,6 +1,5 @@
-# Fastgres
+# Max Raft
 
--  PATENTED: Postgres cluster with unique config of pgbouncer, patroni, haproxy (load balancing), and streaming replication, which handled 800 Mbps of json document throughput using a load generation tool called wrk.
-
-![fastgres run](./fastgres_run.png)
-![fastgres patent](./fastgres_patent.png)
+-  PATENTED: MAX_RAFT, was incorporated into Project Floodlight. Converges in approx 239 nanoseconds. Tested at sufficiently large scale using mininet and not just websockets.
+![max_raft run](./max_raft_run.png)
+![max_raft patent](./max_raft_patent.png)
